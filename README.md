@@ -1,3 +1,3 @@
 # Хостинг для теста от «Банды умников»
 
-Надо перейти - artem-alekseenko.github.io
+Надо перейти - https://artem-alekseenko.github.io/banda-umnicov.github.io/
